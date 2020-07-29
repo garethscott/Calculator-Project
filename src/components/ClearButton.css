@@ -1,0 +1,14 @@
+.clear-btn {
+    background-color: white;
+    height: 80px;
+    width: 260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    font-family: Helvetica, sans-serif;
+    font-size: 50px;
+    border-radius: 10px;
+}
