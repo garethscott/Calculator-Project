@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './App.css';
 import { ClearButton } from './components/ClearButton'
 import { Button } from './components/Button'
 import { Input } from './components/Input'
 
-class App extends Component {
+class App extends React.Component {
   state = {
     input: ""
   }
@@ -79,3 +79,7 @@ class App extends Component {
 
 
 export default App;
+
+
+
+
